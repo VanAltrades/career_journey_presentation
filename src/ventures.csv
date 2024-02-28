@@ -1,0 +1,15 @@
+year,job_type,job_title,effort,income
+2010,contractor,farm hand, 8, 1
+2011,employee,pizza delivery, 5, 1
+2012,venture,spirit wear maker, 2, 4
+2013,student,hoosier, 10, 0
+2014,employee,conservation worker, 7, 2
+2016,contractor,warehouse worker, 10, 2
+2017,employee,demolition,9,3
+2017,contractor,web designer,8,3
+2018,contractor,seo contractor, 7, 4
+2019,employee,marketing specialist, 8, 5
+2020,employee,marketing analyst, 9, 6
+2022,employee,sr. analyst, 10, 6.5
+2021,venture,e-commerce founder, 7, 5
+2024,venture,api developer, 4, 6 
