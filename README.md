@@ -2,7 +2,7 @@
 
 *Jack Billimack*
 
-[Presentation](<docs/PR Business Class- Jack Billimack Career Journey.pdf>)
+[Presentation](<docs/2024 PR Business Class- Jack Billimack Career Path.pdf>)
 
 [Effort to Income Matrix Visualization](src/effort-income-matrix.ipynb)
 
